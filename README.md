@@ -86,12 +86,11 @@ I leverage **LogiQ CLI** to coordinate **12 specialized sub-agents**, each handl
 
 
 ---
+<div align="center">
 
 ## 🎯 Owner / Developer
+Discord: @datamapper(1369305570938454139) also known as M
 
-<div align="center">
-# Discord: @datamapper(1369305570938454139) also known as M
-</div>
 
 ### 🌈 Fun Facts
 
@@ -103,3 +102,4 @@ I leverage **LogiQ CLI** to coordinate **12 specialized sub-agents**, each handl
 ---
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=888888&center=true&vCenter=true&width=1000&lines=Thanks+for+visiting+my+profile!+Let's+build+something+amazing+together+🚀;Bridging+human+creativity+with+machine+efficiency%2C+one+commit+at+a+time+💫;Always+online%2C+always+learning%2C+always+improving+🤖">
+</div>
