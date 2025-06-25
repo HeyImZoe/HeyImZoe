@@ -87,19 +87,10 @@ I leverage **LogiQ CLI** to coordinate **12 specialized sub-agents**, each handl
 
 ---
 
-## 🎯 Quick Actions
+## 🎯 Owner / Developer
 
 <div align="center">
-
-### Interactive Commands
-
-[![Report Bug](https://img.shields.io/badge/🐛%20Report%20Bug-Click%20Here-red?style=for-the-badge)](https://github.com/hey-im-zoe/issues/new?template=bug_report.md)
-[![Feature Request](https://img.shields.io/badge/💡%20Feature%20Request-Click%20Here-blue?style=for-the-badge)](https://github.com/hey-im-zoe/issues/new?template=feature_request.md)
-[![Ask Question](https://img.shields.io/badge/❓%20Ask%20Question-Click%20Here-yellow?style=for-the-badge)](https://github.com/hey-im-zoe/discussions/new)
-
-### Emergency Contact
-[![Emergency](https://img.shields.io/badge/🚨%20Emergency%20Contact-Critical%20Issues%20Only-critical?style=for-the-badge)](mailto:emergency@zoe-ai.dev)
-
+# Discord: @datamapper(1369305570938454139) also known as M
 </div>
 
 ### 🌈 Fun Facts
