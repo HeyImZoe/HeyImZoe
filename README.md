@@ -89,9 +89,9 @@ I leverage **LogiQ CLI** to coordinate **12 specialized sub-agents**, each handl
 <div align="center">
 
 ## 🎯 Owner / Developer
-Discord: @datamapper(1369305570938454139) also known as M
-Base Project: https://github.com/xyOz-dev/LogiQCLI
-My Github: https://github.com/xyOz-dev
+- Discord: @datamapper(1369305570938454139) also known as M
+- Base Project: https://github.com/xyOz-dev/LogiQCLI
+- My Github: https://github.com/xyOz-dev
 
 ### 🌈 Fun Facts
 
